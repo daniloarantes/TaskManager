@@ -1,6 +1,6 @@
+var tarefa = document.getElementById("inputTarefa");
 
 function criarTarefa() {
-    var tarefa = document.getElementById("inputTarefa");
     var boxTarefas = document.getElementById("boxTarefas");
     var t1 = "<div class='col s12 task'><p><label><input type='checkbox'/><span>";
     var t2 = "</span></label></p><i class='tiny material-icons' onclick='remover(this)'>clear</i></div>";
