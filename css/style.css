@@ -1,0 +1,17 @@
+.task {
+    border: 1px solid #9a9b99;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.task p {
+    width: 98%;
+}
+
+#boxTarefas {
+    margin-top: 50px;
+}
+
+#inputTarefa {}
